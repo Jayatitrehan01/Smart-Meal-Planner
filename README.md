@@ -24,7 +24,7 @@ Start the app by telling about yourself
   * Age, Gender, Height, Weight
   * How active you are (Sedentary, Light active, Moderate, Very Active)
   * Your fitness goal (Lose Weight, Gain Weight, Maintain)
-  * Your diet preference (Any, Veg, Non-Veg, Vegan)
+  * Your diet preference (Veg, Non-Veg, Vegan)
   
 Step 2: 
 Calorie and Macro Calculation
